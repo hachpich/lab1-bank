@@ -1,0 +1,9 @@
+lab1_bank/
+├── main.py
+├── models.py
+├── storage.py
+├── data.json
+├── data.xml
+├── diagram.drawio
+├── diagram.png
+└── README.md
