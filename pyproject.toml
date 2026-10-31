@@ -1,0 +1,5 @@
+[project]
+name = "lab1-bank"
+version = "0.1.0"
+description = "ЛР1: ООП, Исключения, XML и JSON (Банк)"
+requires-python = ">=3.9"
